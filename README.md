@@ -90,12 +90,5 @@ The design document covers the **complete mechanical and mathematical modeling**
 ## 👨‍💻 Contributors
 
 * **VIIT Robotics Team – Robocon 2024**
-* Students & mentors from **Vishwakarma Institute of Information Technology, Pune**
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – feel free to use, modify, and share with attribution.
 
 ---
